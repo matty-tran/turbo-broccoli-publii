@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Matty&#x27;s Website",
+    "description": "",
+    "home_page_url": "https:// matty-tran.github.io/turbo-broccoli-publii",
+    "feed_url": "https:// matty-tran.github.io/turbo-broccoli-publii/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Matty Tran"
+    },
+    "items": [
+    ]
+}
