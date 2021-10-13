@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https:// matty-tran.github.io/turbo-broccoli-publii/sitemap.xml
+Sitemap: https://matty-tran.github.io/turbo-broccoli-publii/sitemap.xml
